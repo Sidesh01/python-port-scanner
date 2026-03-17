@@ -1,0 +1,3 @@
+I used Python to scan 1000+ ports and detect open ones like:
+Port 135 (RPC)
+Port 445 (Microsoft-DS)
